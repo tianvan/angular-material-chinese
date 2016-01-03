@@ -1,0 +1,27 @@
+{
+  "name": "angular-material-chinese",
+  "homepage": "https://github.com/vanntian/angular-material-chinese",
+  "authors": [
+    "Van Tian <vantian@live.com>"
+  ],
+  "description": "Angular Material adapt to chinese",
+  "main": "angular-material-chinese.css",
+  "moduleType": [],
+  "keywords": [
+    "angular",
+    "material",
+    "chinese"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~1.0.1"
+  }
+}
